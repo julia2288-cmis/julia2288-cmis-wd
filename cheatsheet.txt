@@ -1,0 +1,13 @@
+ls <directory name>:  List contents of a directory
+cd: Go home.
+cd <directory name>:  Change directory
+cd ..: Go up
+cat <file name>: View the contents of a file
+gedit <file name> &
+python -m SimpleHTTPServer - Start the development server
+sftp username@cmis-hsteacher 
+prepend a command with ! to execute it on local
+put <filename> - upload a file
+get <filename> - upload a file
+rm <filename> : remove a file
+rm,pus * : * = all
