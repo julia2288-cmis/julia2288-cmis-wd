@@ -1,0 +1,22 @@
+h1{
+	font-family:Roundabout;
+	color:white;
+	font-size:75px;
+	border:double 10px;
+}
+
+body{
+	Background-color:skyblue;
+	
+}
+
+h2{
+	font-family:Hanging Letters;
+	color:white;
+	font-size:40px;
+}
+
+footer{
+	color:white;
+	border:double 10px;
+}
