@@ -1,0 +1,42 @@
+h1 {
+	font-family : impact;
+	font-size : 25px;
+	font-style : italic;
+	font-weight : bold;
+	color : yellow;
+	border : hidden 10px;
+	background-color : green;
+}
+
+p1 {
+	font-family : impact;
+	font-size : 15px;
+	font-style : italic;
+	font-weight : normal;
+	color : blue;
+	border-top-style: dotted;
+	border-bottom-style:dashed;
+	border-color:yellow;
+	background-color : red;
+	border-width: 5px;
+}
+
+h2{
+	font-family : arial;
+	font-size : 17px;
+	font-style : normal;
+	font-weight : bold;
+	color : yellow;
+	border : hidden 10px;
+	background-color :purple;
+}
+
+p2{
+	font-family : arial;
+	font-size : 17px;
+	font-style : normal;
+	font-weight : bold;
+	color : purple;
+	border-top-style: dotted 10px;
+	background-color :yellow;
+}
